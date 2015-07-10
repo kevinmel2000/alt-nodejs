@@ -1,0 +1,27 @@
+{
+  "name": "alt-nodejs",
+  "version": "1.0.0",
+  "description": "Alt-NodeJS, Express + Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niwasmala/alt-nodejs.git"
+  },
+  "keywords": [
+    "Alt",
+    "NodeJS"
+  ],
+  "author": "Nicky Irawan <niwasmala@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niwasmala/alt-nodejs/issues"
+  },
+  "homepage": "https://github.com/niwasmala/alt-nodejs",
+  "dependencies": {
+    "express": "^4.13.1",
+    "socket.io": "^1.3.5"
+  }
+}
